@@ -11,11 +11,43 @@ Generate Anki flashcards for learning piano — notes, chords, and music theory 
 | **Piano::Theory** | 152 | Q&A cards across 33 music theory topics with diagrams |
 | **Total** | **408** | |
 
-### Chord Types
-Major, Minor, Diminished, Augmented, Dominant 7th, Major 7th, Minor 7th — for all 12 roots.
+## Examples
 
-### Theory Topics
-Fundamentals (musical alphabet, half/whole steps, chromatic scale, enharmonics) → Scales & Keys (major/minor formulas, key signatures, circle of fifths) → Intervals → Chord Construction (triads, 7ths, inversions) → Harmony (diatonic chords, Roman numerals, common progressions) → Reading Music (clefs, note durations, time signatures, rests).
+### Notes
+
+Each of the 88 piano keys gets a card with staff notation, audio, and a keyboard diagram.
+
+| Staff Notation | Keyboard Position |
+|:---:|:---:|
+| ![Staff](examples/note_staff.png) | ![Keyboard](examples/note_keyboard.png) |
+
+### Chords
+
+84 chords (12 roots x 7 types: Major, Minor, Diminished, Augmented, Dom7, Maj7, Min7) with two card types each.
+
+| Staff Notation | Keyboard Diagram |
+|:---:|:---:|
+| ![Chord Staff](examples/chord_staff.png) | ![Chord Keyboard](examples/chord_keyboard.png) |
+
+| Right Hand Fingering | Left Hand Fingering |
+|:---:|:---:|
+| ![RH](examples/chord_fingering_rh.png) | ![LH](examples/chord_fingering_lh.png) |
+
+### Theory
+
+152 Q&A cards across 33 topics with visual diagrams.
+
+| Major Scale Formula | Half & Whole Steps |
+|:---:|:---:|
+| ![Scale](examples/theory_major_scale.png) | ![Steps](examples/theory_steps.png) |
+
+| Interval Recognition | Key Signatures |
+|:---:|:---:|
+| ![Interval](examples/theory_interval.png) | ![Key Sig](examples/theory_key_signature.png) |
+
+| Chord Inversions | Circle of Fifths |
+|:---:|:---:|
+| ![Inversions](examples/theory_inversions.png) | ![Circle](examples/theory_circle_of_fifths.png) |
 
 ## Prerequisites
 
